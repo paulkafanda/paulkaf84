@@ -48,4 +48,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt+"PHP" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt+"C" height="40", width="40"/>
 </div>
-  
+
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulkaf84&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkaf84&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
