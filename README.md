@@ -42,8 +42,8 @@
 - :zap: In my free time, I read tech books and tech articles.
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](paulkaf84@gmail.com).
 
-
-<div>
+---
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"Python" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt+"PHP" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt+"C" height="40", width="40"/>
