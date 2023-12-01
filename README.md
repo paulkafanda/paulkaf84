@@ -47,6 +47,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"Python" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt+"PHP" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt+"C" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt+"C" height="40", width="40"/>
 </div>
 
 ---
