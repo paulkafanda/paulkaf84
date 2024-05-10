@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="">
 </div>
 
 <!-- limnkedin badge-->
@@ -24,12 +24,12 @@
 <!-- gif salut -->
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt=""/>
 </h1>
 
 <!-- gif codeur -->
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="350"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="350" alt=""/>
 </div>
 
 ---
@@ -44,14 +44,26 @@
 
 ---
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"Python" height="40", width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt+"PHP" height="40", width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt+"C" height="40", width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt+"C" height="40", width="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="40" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="C" height="40" width="40"/>
 </div>
 
 ---
+
+
+<div align="center">
+  <div>
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulkaf84&theme=dark&background=000000)](https://git.io/streak-stats)
-  <br>
+
+  </div>
+  <div>
+    
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkaf84&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+
+</div>
 
