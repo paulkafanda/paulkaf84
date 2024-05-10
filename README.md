@@ -35,22 +35,23 @@
 ---
 
 ### :man_technologist: About Me : 
-  - Currently I'm student
+  - Currently I'm a fourth degree student in computer science
   - I like good things.
-- :telescope: I’m learning PHP language.
+- :telescope: I’m Larvel artisan.
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I read tech books and tech articles.
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](paulkaf84@gmail.com).
+- :zap: In my free time, I don't have free time.
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:paulkafanda@gmail.com).
 
 ---
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"Python" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt+"PHP" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt+"C" height="40", width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt+"C" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt+"C" height="40", width="40"/>
 </div>
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulkaf84&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkaf84&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulkaf84&theme=dark&background=000000)](https://git.io/streak-stats)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulkaf84&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
