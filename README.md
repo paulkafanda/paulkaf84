@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="">
 </div>
 
-<!-- limnkedin badge-->
 <div id="badges" align="center">
 <!--  telegram badge  -->
   <a href="https://t.me/Paulkafanda">
