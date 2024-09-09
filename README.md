@@ -33,7 +33,7 @@
 ### :man_technologist: About Me : 
   - Currently I'm a fourth degree student in computer science
   - I like good things.
-- :telescope: I’m Larvel artisan.
+- :telescope: I’m a Larvel artisan.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I don't have free time.
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:paulkafanda@gmail.com).
