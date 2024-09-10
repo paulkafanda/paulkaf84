@@ -31,6 +31,7 @@
 ---
 
 ### :man_technologist: About Me : 
+  - I'm Paul Kafanda Ndala 
   - Currently I'm a fourth degree student in computer science
   - I like good things.
 - :telescope: I’m a Larvel artisan.
