@@ -40,6 +40,7 @@
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:paulkafanda@gmail.com).
 
 ---
+
 <div align="center">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40" width="40"/>
