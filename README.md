@@ -8,10 +8,6 @@
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
-<!--  twiter badge  -->
-  <a href="https://twitter.com/paul_kaf_N">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <br>
 <!--  view number  -->
   <img src="https://komarev.com/ghpvc/?username=paulkaf84&style=flat-square&color=blue" alt=""/>
